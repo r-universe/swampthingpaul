@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "EPGMr"]
+	path = EPGMr
+	url = https://github.com/swampthingpaul/epgmr
+	shallow = true
+	registered = true
+[submodule "LimnoPalettes"]
+	path = LimnoPalettes
+	url = https://github.com/swampthingpaul/limnopalettes
+	shallow = true
+	registered = true
+[submodule "NADA2"]
+	path = NADA2
+	url = https://github.com/swampthingpaul/nada2
+	shallow = true
+	registered = true

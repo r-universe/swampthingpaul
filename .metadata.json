@@ -1,0 +1,14 @@
+[
+  {
+    "package": "EPGMr",
+    "oncran": true
+  },
+  {
+    "package": "LimnoPalettes",
+    "oncran": true
+  },
+  {
+    "package": "NADA2",
+    "oncran": true
+  }
+]
