@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "EPGMr"]
-	path = EPGMr
-	url = https://github.com/swampthingpaul/epgmr
 [submodule "LimnoPalettes"]
 	path = LimnoPalettes
 	url = https://github.com/swampthingpaul/limnopalettes
