@@ -5,3 +5,6 @@
 [submodule "LimnoPalettes"]
 	path = LimnoPalettes
 	url = https://github.com/swampthingpaul/limnopalettes
+[submodule "NADA2"]
+	path = NADA2
+	url = https://github.com/swampthingpaul/nada2
